@@ -124,3 +124,5 @@ export PATH="/home/claire/android-studio/bin/:/home/claire/jdk1.8.0_111/bin:$PAT
 
 export ANDROID_HOME="/home/claire/android-sdk-linux/"
 export JAVA_HOME="/home/claire/jdk1.8.0_111/"
+
+export NODE_PATH=`which node`
